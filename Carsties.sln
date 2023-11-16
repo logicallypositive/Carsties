@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B83ADBEC-86CD-4479-8951-F648560AAC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionService", "src\AuctionService\AuctionService.csproj", "{4529CCD2-DA4C-44F8-BCB6-93D923ED7ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4529CCD2-DA4C-44F8-BCB6-93D923ED7ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4529CCD2-DA4C-44F8-BCB6-93D923ED7ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4529CCD2-DA4C-44F8-BCB6-93D923ED7ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4529CCD2-DA4C-44F8-BCB6-93D923ED7ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4529CCD2-DA4C-44F8-BCB6-93D923ED7ACC} = {B83ADBEC-86CD-4479-8951-F648560AAC6E}
+	EndGlobalSection
+EndGlobal
